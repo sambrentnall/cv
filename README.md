@@ -14,11 +14,11 @@ _Integration Engineer with over 17-years experience in the IT industry_
 **Virtualisation:** VM Ware ESX/ESXi, Hyper-V  
 
 ## Work History
-**Integration Engineer** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2018 - Present)_ <br>
-**Microsoft SQL DBA** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2015 - March 2018)_ <br>
-**Senior Desktop Engineer** @ [Thales UK](https://www.thalesgroup.com/en) _(August 2013 - March 2015)_ <br>
-**Deputy Team Leader** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2012 - August 2013)_ <br>
-**Service Desk Analyst (24/7)** @ [Thales UK](https://www.thalesgroup.com/en) _(July 2008 - March 2012)_ <br>
-**Admin Assistant** @ Doncaster Council Youth Offending Service (August 2007 - June 2008) <br>
-**Modern Apprentice** @ Doncaster Council IT Department (July 2004 - September 2007 & June 2008 - Jul 2008) <br>
+**Integration Engineer** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2018 - Present)_  
+**Microsoft SQL DBA** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2015 - March 2018)_  
+**Senior Desktop Engineer** @ [Thales UK](https://www.thalesgroup.com/en) _(August 2013 - March 2015)_  
+**Deputy Team Leader** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2012 - August 2013)_  
+**Service Desk Analyst (24/7)** @ [Thales UK](https://www.thalesgroup.com/en) _(July 2008 - March 2012)_  
+**Admin Assistant** @ [Doncaster Council Youth Offending Service](https://www.doncaster.gov.uk) _(August 2007 - June 2008)_  
+**Modern Apprentice** @ [Doncaster Council IT Department](https://www.doncaster.gov.uk) _(July 2004 - September 2007 & June 2008 - Jul 2008)_  
 
