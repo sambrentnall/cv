@@ -5,13 +5,13 @@ _Integration Engineer with over 17-years experience in the IT industry_
 [LinkedIn](https://www.linkedin.com/in/sam-brentnall-749379aa/) / [GitHub](https://github.com/sambrentnall/) / [Twitter](https://twitter.com/sambrentnall/)
 
 ## Key Skills and experience
-**Languages:** PowerShell, Bash, Batch Scripting and SQL for automating deployments, testing and monitoring <br>
-**Version Control Systems:** GIT with BitBucket and GitHub to store application code and scripts <br> 
-**OS:** Microsoft Windows up to Windows 10 and Server 2019, Red Hat Linux, Ubuntu <br>
-**Integration:** IBM DataPower, IBM Integration Bus, IBM MQ  <br>
-**Databases:** Microsoft and Oracle <br>
-**Config Management:** Microsoft System Centre Config Management 2012 and R2 <br>
-**Virtualisation:** VM Ware ESX/ESXi, Hyper-V <br>
+**Languages:** PowerShell, Bash, Batch Scripting and SQL for automating deployments, testing and monitoring  
+**Version Control Systems:** GIT with BitBucket and GitHub to store application code and scripts  
+**OS:** Microsoft Windows up to Windows 10 and Server 2019, Red Hat Linux, Ubuntu  
+**Integration:** IBM DataPower, IBM Integration Bus, IBM MQ  
+**Databases:** Microsoft and Oracle  
+**Config Management:** Microsoft System Centre Config Management 2012 and R2  
+**Virtualisation:** VM Ware ESX/ESXi, Hyper-V  
 
 ## Work History
 **Integration Engineer** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2018 - Present)_ <br>
