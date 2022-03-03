@@ -1,6 +1,6 @@
 # Sam Brentnall
 
-_Integration Engineer with over 17-years experience in the IT industry, with 13-years working at Thales UK_ <br>
+_Integration Engineer with over 17-years experience in the IT industry_  
 
 [LinkedIn](https://www.linkedin.com/in/sam-brentnall-749379aa/) / [GitHub](https://github.com/sambrentnall/) / [Twitter](https://twitter.com/sambrentnall/)
 
@@ -19,3 +19,6 @@ _Integration Engineer with over 17-years experience in the IT industry, with 13-
 **Senior Desktop Engineer** @ [Thales UK](https://www.thalesgroup.com/en) _(August 2013 - March 2015)_ <br>
 **Deputy Team Leader** @ [Thales UK](https://www.thalesgroup.com/en) _(March 2012 - August 2013)_ <br>
 **Service Desk Analyst (24/7)** @ [Thales UK](https://www.thalesgroup.com/en) _(July 2008 - March 2012)_ <br>
+**Admin Assistant** @ Doncaster Council Youth Offending Service (August 2007 - June 2008) <br>
+**Modern Apprentice** @ Doncaster Council IT Department (July 2004 - September 2007 & June 2008 - Jul 2008) <br>
+
