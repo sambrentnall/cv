@@ -5,7 +5,7 @@ _DevOps Engineer with over 17-years experience in the IT industry._
 [Mastodon](https://mastodon.social/@sambrentnall) / [LinkedIn](https://www.linkedin.com/in/sam-brentnall-749379aa/) / [GitHub](https://github.com/sambrentnall/) / [Twitter](https://twitter.com/sambrentnall/)
 
 ## Key Skills and experience
-**Cloud** Microsoft Azure
+**Cloud** Microsoft Azure  
 **Languages:** PowerShell, Bash, Batch Scripting and SQL for automating deployments, testing and monitoring  
 **Version Control Systems:** GIT with BitBucket, GitHub & Gitlab to store application/pipeline code and scripts  
 **OS:** Microsoft Windows up to Windows 11 and Server 2019, Red Hat Linux, Ubuntu  
