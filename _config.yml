@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: 🧑🏼‍💻 ☕️ 🏃🏼
 description: Sam Brentnall's CV
+plugins:
+  - jekyll-link-attributes
