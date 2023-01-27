@@ -3,3 +3,8 @@ title: 🧑🏼‍💻 ☕️ 🏃🏼
 description: Sam Brentnall's CV
 plugins:
   - jekyll-link-attributes
+external_links:
+  enabled: true
+  rel: me
+  target: _blank
+  exclude:
